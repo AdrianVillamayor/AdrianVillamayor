@@ -3,8 +3,6 @@
 
 - 📄 I've been working as full-stack since 2017, focused on PHP, JS and Python as backend and HTML, SASS and JS as frontend.
 
-- 🔭 I’m currently working on [SocialDiabetes](https://www.socialdiabetes.com/)
-
 - 🌱 I'm currently developing myself
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdrianVillamayor?tab=repositories](https://github.com/AdrianVillamayor?tab=repositories)
